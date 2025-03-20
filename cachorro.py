@@ -54,7 +54,7 @@ class Cachorro:
         print(f"Feliz: {self.feliz}")
         print(f"Energia: {self.energia}")
 
-cachorro1 = Cachorro("Bertinho", 1, "Vira-Lata", 8)
+cachorro1 = Cachorro("Luppy", 1, "Vira-Lata", 8)
 cachorro1.exibirstatus()
 
 cachorro1.acordar()
